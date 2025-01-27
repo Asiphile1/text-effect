@@ -54,4 +54,4 @@ Edit
 * Styling: Change font size, colors, and alignment for a personalized look.
 
 ## Demo
-You can see a live demo of the text effect here .
+You can see a live demo of the text effect here https://text-effect-od8u.vercel.app/ .
